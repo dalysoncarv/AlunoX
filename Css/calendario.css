@@ -633,3 +633,12 @@ body {
 .credits a:hover {
     text-decoration: underline;
 }
+.nav-link{
+    text-decoration: none;
+    color: var(--text-color-second);
+    font-size: 30px;
+    font-weight: 500;
+    padding-inline: 15px;
+    margin-inline: 20px;
+    margin-top: 10px;
+}
